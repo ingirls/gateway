@@ -330,11 +330,8 @@ github.com/micro/go-micro/v2 v2.0.0/go.mod h1:v7QP5UhKRt37ixjJe8DouWmg0/eE6dltr5
 github.com/micro/go-micro/v2 v2.1.2/go.mod h1:6RewFTFMI5H5CbuQymu4eS0cFtqYsdGFruMflWT36IQ=
 github.com/micro/go-micro/v2 v2.2.0 h1:WASFwRocvaJD5tiH7y9tQuu8w0ZVnXtPc0JqClgVALI=
 github.com/micro/go-micro/v2 v2.2.0/go.mod h1:6RewFTFMI5H5CbuQymu4eS0cFtqYsdGFruMflWT36IQ=
-github.com/micro/go-plugins v1.5.1 h1:swcFD7ynCTUo98APqIEIbPu2XMd6yVGTnI8PqdnCwOQ=
 github.com/micro/go-plugins/micro/disable_rpc/v2 v2.0.3 h1:HC31TkiRaTCMYUkBrbYqJBM5qif+usGj3QH+K2Vbqs0=
 github.com/micro/go-plugins/micro/disable_rpc/v2 v2.0.3/go.mod h1:aYwhEgVZOghhpG79CiM1M0ndE6NViUV/OjtHvZtZdGk=
-github.com/micro/go-plugins/micro/gzip/v2 v2.0.3 h1:mh15dMjKK/K56d7Mq2B/p80obXAnY2mTHRCtfbq38x8=
-github.com/micro/go-plugins/micro/gzip/v2 v2.0.3/go.mod h1:dts+g4reGk5iJXfjDh5eac1I3ERVvxKux0OXUM0i/qE=
 github.com/micro/go-plugins/micro/metrics/prometheus/v2 v2.0.1 h1:wihsvW+tjuPzqen05uZpeTSBLnKrd70U29m2qwxnkVw=
 github.com/micro/go-plugins/micro/metrics/prometheus/v2 v2.0.1/go.mod h1:VESxD9fM3A1rA4Dlt3Q14ic+Jv96DCrhwLbuOlfMs5I=
 github.com/micro/go-plugins/micro/metrics/v2 v2.0.3 h1:uQnWMkkn4IGPW0Wd+Sq3aXHu918gS22ecNNaKbwLq5c=
@@ -343,7 +340,6 @@ github.com/micro/go-plugins/registry/consul/v2 v2.0.3 h1:gdiPbrMLS7kRbUx0/Mk5bsW
 github.com/micro/go-plugins/registry/consul/v2 v2.0.3/go.mod h1:ZffsiTaaplO3k0PkaZS5EQFg5rDLiJvYEuiob0g9jFU=
 github.com/micro/mdns v0.3.0 h1:bYycYe+98AXR3s8Nq5qvt6C573uFTDPIYzJemWON0QE=
 github.com/micro/mdns v0.3.0/go.mod h1:KJ0dW7KmicXU2BV++qkLlmHYcVv7/hHnbtguSWt9Aoc=
-github.com/micro/micro v1.18.0 h1:v+xiQOXbT9xxotLwu1nJM81t4FbruBxZSSyIdhUfujM=
 github.com/micro/micro/v2 v2.0.0/go.mod h1:nGOtvMDWPNHLuet1Urf1y40IDghEuCP1gnT97FVVKFc=
 github.com/micro/micro/v2 v2.2.0 h1:QqIPMUfhkpXxygr33e2uSUn1fSKrgFGDHNK+7CBSdw0=
 github.com/micro/micro/v2 v2.2.0/go.mod h1:zOBPvvN7g+ve5ccRGY3K5Cdf4PDcDahfzdOCtDUnFG8=

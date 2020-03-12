@@ -312,8 +312,6 @@ github.com/micro/go-micro/v2/web
 # github.com/micro/go-plugins/micro/disable_rpc/v2 v2.0.3
 ## explicit
 github.com/micro/go-plugins/micro/disable_rpc/v2
-# github.com/micro/go-plugins/micro/gzip/v2 v2.0.3
-## explicit
 # github.com/micro/go-plugins/micro/metrics/prometheus/v2 v2.0.1
 github.com/micro/go-plugins/micro/metrics/prometheus/v2
 # github.com/micro/go-plugins/micro/metrics/v2 v2.0.3
